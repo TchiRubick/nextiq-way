@@ -1,0 +1,6 @@
+{
+  "databaseURL": "https://Tchi-s-workspace-hqo75u.eu-central-1.xata.sh/db/nextiq-way",
+  "codegen": {
+    "output": "src/xata.ts"
+  }
+}
